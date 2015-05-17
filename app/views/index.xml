@@ -1,0 +1,8 @@
+<Alloy>
+	<Window>
+		<Module  id="mapview"  module="ti.map" onRegionchanged="doRegionchanged">
+			
+		</Module>
+		<Button height="40dp" backgroundColor="#FF0000" top="20dp" onClick="doZoom" title="Click me twice"></Button>
+	</Window>
+</Alloy>
